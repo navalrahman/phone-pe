@@ -1,0 +1,72 @@
+.body {
+    background-color: #282c34;
+    text-align: center;
+}
+.heading {
+    text-align:center
+}
+
+.formPage {
+
+    border-image: round;
+    text-decoration: solid;
+    font-family: 'Courier New', Courier, monospace;
+    flex-direction: column;
+
+}
+input[type=number] {
+    border:2px soild blue;
+    border-radius: 4px;
+    width:100%;
+    padding: 12px 20px;
+    margin: 8px;
+    box-sizing:border-box;
+    text-align: center;
+}
+
+input[type=text] {
+    border:2px soild blue;
+    border-radius: 4px;
+    width:100%;
+    padding: 12px 20px;
+    margin: 8px;
+    box-sizing:border-box;
+    text-align: center;
+}
+
+.pTag {
+    font-weight:100px;
+    font-style: bold;
+    font-display: center;
+    text-decoration: underline;
+}
+.alignment{
+    display: flex;
+    flex-direction: row;
+}
+.alignment input {
+    margin-top: 15px;
+    width: 5%;
+}
+.alignment label{
+    width: 100%;
+    padding: 12px;
+}
+
+.checkbox {
+    font-style: italic;
+    font-size: 13px;
+    
+}
+
+.button {
+    background-color: #008CBA;
+    border: none;
+    border-radius: 12px;
+    color: #ffff;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

@@ -1,0 +1,202 @@
+
+.heading {
+    text-align: center;
+    text-decoration: beige;
+    font-size: 25px;
+}
+
+
+input[type=password] {
+    border:2px soild blue;
+    border-radius: 4px;
+    width:100%;
+    padding: 12px 20px;
+    margin: 8px;
+    box-sizing:border-box;
+    text-align: center;
+    font-size: 35px;
+}
+
+.showHide{
+    background-color: #9eba00;
+    border: none;
+    border-radius: 12px;
+    width: 100%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+
+}
+
+.buttonStyle {
+    background-color: #008CBA;
+    border: none;
+    border-radius: 12px;
+    width: 100%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button1 {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button2 {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button3 {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button4 {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button5 {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button6 {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button7 {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button8 {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button9 {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.buttonClear {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.button0 {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.buttonSubmit {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    width: 33%;
+    color: #ffff;
+    padding: 12px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 28px;
+}
+
